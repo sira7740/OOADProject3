@@ -1,0 +1,9354 @@
+################################# Day 1 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 1
+
+Active Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 1
+
+**************************** Completed Order by Day 1 *****************************
+
+Total Completed Orders: 0
+
+########################## Total Earning on Day 1 : 0$ ###########################
+
+**************************** Inventories before Day 2 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 1
+Concrete tool 2
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 5/5
+Painting tools remaining:
+Painting tool 1
+Painting tool 2
+Painting tool 4
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 5/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 5/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 1
+Yardwork tool 2
+Yardwork tool 3
+Yardwork tool remaining: 4/4
+
+################################# Day 2 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 1
+
+Active Order 1: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 2
+
+**************************** Completed Order by Day 2 *****************************
+
+Total Completed Orders: 1
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+########################## Total Earning on Day 2 : 28$ ###########################
+
+**************************** Inventories before Day 3 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 1
+Concrete tool 2
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 5/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 2
+Painting tool 3
+Painting tool 4
+Painting tool remaining: 4/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 5/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 5/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 1
+Yardwork tool 2
+Yardwork tool 3
+Yardwork tool remaining: 4/4
+
+################################# Day 3 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 2
+
+Active Order 1: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 1
+
+Active Order 2: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 1
+
+**************************** Completed Order by Day 3 *****************************
+
+Total Completed Orders: 1
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+########################## Total Earning on Day 3 : 21$ ###########################
+
+**************************** Inventories before Day 4 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 1
+Concrete tool 2
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 5/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 2
+Painting tool 3
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 5/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 5/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 1
+Yardwork tool 2
+Yardwork tool 3
+Yardwork tool remaining: 4/4
+
+################################# Day 4 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 2
+
+Active Order 1: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 1
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 6
+
+**************************** Completed Order by Day 4 *****************************
+
+Total Completed Orders: 2
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+########################## Total Earning on Day 4 : 30$ ###########################
+
+**************************** Inventories before Day 5 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 1
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 4/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 1
+Painting tool 2
+Painting tool 3
+Painting tool remaining: 4/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 4/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 5/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 2
+Yardwork tool 3
+Yardwork tool remaining: 3/4
+
+################################# Day 5 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 3
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 6
+
+Active Order 2: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 2
+
+Active Order 3: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 1
+
+**************************** Completed Order by Day 5 *****************************
+
+Total Completed Orders: 3
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+########################## Total Earning on Day 5 : 62$ ###########################
+
+**************************** Inventories before Day 6 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 1
+Concrete tool 4
+Concrete tool remaining: 3/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 1
+Painting tool 2
+Painting tool 3
+Painting tool 4
+Painting tool remaining: 5/5
+Plumbing tools remaining:
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 3/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool remaining: 4/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 2
+Yardwork tool remaining: 2/4
+
+################################# Day 6 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 2
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 5
+
+Active Order 2: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 1
+
+**************************** Completed Order by Day 6 *****************************
+
+Total Completed Orders: 4
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+########################## Total Earning on Day 6 : 54$ ###########################
+
+**************************** Inventories before Day 7 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 1
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 4/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 1
+Painting tool 2
+Painting tool 3
+Painting tool 4
+Painting tool remaining: 5/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 4/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool remaining: 4/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 2
+Yardwork tool remaining: 2/4
+
+################################# Day 7 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 2
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 4
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 7
+
+**************************** Completed Order by Day 7 *****************************
+
+Total Completed Orders: 5
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+########################## Total Earning on Day 7 : 0$ ###########################
+
+**************************** Inventories before Day 8 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 3/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 1
+Painting tool 2
+Painting tool 3
+Painting tool 4
+Painting tool remaining: 5/5
+Plumbing tools remaining:
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 3/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 5/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 3
+Yardwork tool remaining: 2/4
+
+################################# Day 8 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 3
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 3
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 6
+
+Active Order 3: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 1
+
+**************************** Completed Order by Day 8 *****************************
+
+Total Completed Orders: 5
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+########################## Total Earning on Day 8 : 62$ ###########################
+
+**************************** Inventories before Day 9 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 3
+Concrete tool remaining: 2/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 2
+Painting tool 3
+Painting tool 4
+Painting tool remaining: 4/5
+Plumbing tools remaining:
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 3/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 5/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 3
+Yardwork tool remaining: 2/4
+
+################################# Day 9 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 4
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 2
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 5
+
+Active Order 3: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 2
+
+Active Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 1
+
+**************************** Completed Order by Day 9 *****************************
+
+Total Completed Orders: 6
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+########################## Total Earning on Day 9 : 27$ ###########################
+
+**************************** Inventories before Day 10 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 3/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 1
+Painting tool 2
+Painting tool 3
+Painting tool 4
+Painting tool remaining: 5/5
+Plumbing tools remaining:
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 3/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool remaining: 3/5
+Yardwork tools remaining:
+Yardwork tool remaining: 0/4
+
+################################# Day 10 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 3
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 1
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 4
+
+Active Order 3: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 1
+
+**************************** Completed Order by Day 10 *****************************
+
+Total Completed Orders: 7
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+########################## Total Earning on Day 10 : 50$ ###########################
+
+**************************** Inventories before Day 11 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 3/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 1
+Painting tool 2
+Painting tool 3
+Painting tool 4
+Painting tool remaining: 5/5
+Plumbing tools remaining:
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 3/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool remaining: 3/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 3
+Yardwork tool remaining: 2/4
+
+################################# Day 11 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 2
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 4
+
+Active Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 2
+
+**************************** Completed Order by Day 11 *****************************
+
+Total Completed Orders: 9
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+########################## Total Earning on Day 11 : 0$ ###########################
+
+**************************** Inventories before Day 12 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 2
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 4/5
+Painting tools remaining:
+Painting tool 1
+Painting tool 2
+Painting tool 3
+Painting tool 4
+Painting tool remaining: 4/5
+Plumbing tools remaining:
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 4/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 5/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 1
+Yardwork tool 3
+Yardwork tool remaining: 3/4
+
+################################# Day 12 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 3
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 3
+
+Active Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 1
+
+Active Order 3: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 4
+
+**************************** Completed Order by Day 12 *****************************
+
+Total Completed Orders: 9
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+########################## Total Earning on Day 12 : 30$ ###########################
+
+**************************** Inventories before Day 13 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 2
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 4/5
+Painting tools remaining:
+Painting tool 1
+Painting tool 2
+Painting tool 3
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 4/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 5/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 1
+Yardwork tool 3
+Yardwork tool remaining: 3/4
+
+################################# Day 13 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 3
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 2
+
+Active Order 2: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 4
+
+Active Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 4
+
+**************************** Completed Order by Day 13 *****************************
+
+Total Completed Orders: 10
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+########################## Total Earning on Day 13 : 21$ ###########################
+
+**************************** Inventories before Day 14 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 2
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 4/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 1
+Painting tool 3
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 4/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 5/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 1
+Yardwork tool 3
+Yardwork tool remaining: 3/4
+
+################################# Day 14 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 4
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 1
+
+Active Order 2: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 3
+
+Active Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 3
+
+Active Order 4: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 6
+
+**************************** Completed Order by Day 14 *****************************
+
+Total Completed Orders: 10
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+########################## Total Earning on Day 14 : 21$ ###########################
+
+**************************** Inventories before Day 15 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 2
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 4/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 1
+Painting tool 3
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 4/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 5/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 1
+Yardwork tool 3
+Yardwork tool remaining: 3/4
+
+################################# Day 15 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 4
+
+Active Order 1: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 3
+
+Active Order 2: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 2
+
+Active Order 3: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 5
+
+Active Order 4: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 6
+
+**************************** Completed Order by Day 15 *****************************
+
+Total Completed Orders: 11
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+########################## Total Earning on Day 15 : 62$ ###########################
+
+**************************** Inventories before Day 16 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 1
+Concrete tool 2
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 4/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 1
+Painting tool 3
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 4/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 5/5
+Yardwork tools remaining:
+Yardwork tool 1
+Yardwork tool 2
+Yardwork tool 3
+Yardwork tool remaining: 3/4
+
+################################# Day 16 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 5
+
+Active Order 1: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 2
+
+Active Order 2: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 1
+
+Active Order 3: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 4
+
+Active Order 4: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 5
+
+Active Order 5: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 6
+
+**************************** Completed Order by Day 16 *****************************
+
+Total Completed Orders: 11
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+########################## Total Earning on Day 16 : 55$ ###########################
+
+**************************** Inventories before Day 17 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 1
+Concrete tool 2
+Concrete tool 3
+Concrete tool remaining: 3/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 1
+Painting tool 3
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 4/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 4/5
+Yardwork tools remaining:
+Yardwork tool 1
+Yardwork tool 2
+Yardwork tool remaining: 2/4
+
+################################# Day 17 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 6
+
+Active Order 1: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 1
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 4
+
+Active Order 3: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 4
+
+Active Order 4: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 5
+
+Active Order 5: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 4
+
+Active Order 6: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 4
+
+**************************** Completed Order by Day 17 *****************************
+
+Total Completed Orders: 12
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+########################## Total Earning on Day 17 : 65$ ###########################
+
+**************************** Inventories before Day 18 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 1
+Concrete tool 2
+Concrete tool remaining: 2/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 1
+Painting tool 2
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 3/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool remaining: 3/5
+Yardwork tools remaining:
+Yardwork tool 1
+Yardwork tool 2
+Yardwork tool remaining: 2/4
+
+################################# Day 18 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 5
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 4
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 3
+
+Active Order 3: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 4
+
+Active Order 4: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 3
+
+Active Order 5: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 3
+
+**************************** Completed Order by Day 18 *****************************
+
+Total Completed Orders: 13
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+########################## Total Earning on Day 18 : 51$ ###########################
+
+**************************** Inventories before Day 19 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 1
+Concrete tool 2
+Concrete tool remaining: 2/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 1
+Painting tool 2
+Painting tool 4
+Painting tool remaining: 4/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 3/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool remaining: 3/5
+Yardwork tools remaining:
+Yardwork tool 1
+Yardwork tool 2
+Yardwork tool remaining: 2/4
+
+################################# Day 19 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 6
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 3
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 2
+
+Active Order 3: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 3
+
+Active Order 4: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 2
+
+Active Order 5: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 2
+
+Active Order 6: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 3
+
+**************************** Completed Order by Day 19 *****************************
+
+Total Completed Orders: 13
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+########################## Total Earning on Day 19 : 0$ ###########################
+
+**************************** Inventories before Day 20 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 1
+Concrete tool 2
+Concrete tool remaining: 2/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 1
+Painting tool 2
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 3/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool remaining: 3/5
+Yardwork tools remaining:
+Yardwork tool 1
+Yardwork tool 2
+Yardwork tool remaining: 2/4
+
+################################# Day 20 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 7
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 2
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 1
+
+Active Order 3: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 2
+
+Active Order 4: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 1
+
+Active Order 5: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 1
+
+Active Order 6: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 2
+
+Active Order 7: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Woodwork tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 1
+
+**************************** Completed Order by Day 20 *****************************
+
+Total Completed Orders: 13
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+########################## Total Earning on Day 20 : 30$ ###########################
+
+**************************** Inventories before Day 21 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 1
+Concrete tool 2
+Concrete tool remaining: 2/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 1
+Painting tool 2
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 3/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 3
+Woodwork tool remaining: 2/5
+Yardwork tools remaining:
+Yardwork tool 1
+Yardwork tool 2
+Yardwork tool remaining: 2/4
+
+################################# Day 21 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 5
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 1
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 2
+
+Active Order 3: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 1
+
+Active Order 4: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 1
+
+Active Order 5: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 7
+
+**************************** Completed Order by Day 21 *****************************
+
+Total Completed Orders: 16
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 14: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 15: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 16: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Woodwork tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+########################## Total Earning on Day 21 : 24$ ###########################
+
+**************************** Inventories before Day 22 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 2
+Concrete tool remaining: 2/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 1
+Painting tool 2
+Painting tool 3
+Painting tool remaining: 4/5
+Plumbing tools remaining:
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 3/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 4/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 2
+Yardwork tool remaining: 2/4
+
+################################# Day 22 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 3
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 2
+
+Active Order 2: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 1
+
+Active Order 3: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 6
+
+**************************** Completed Order by Day 22 *****************************
+
+Total Completed Orders: 18
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 14: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 15: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 16: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Woodwork tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 17: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 18: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+########################## Total Earning on Day 22 : 62$ ###########################
+
+**************************** Inventories before Day 23 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 1
+Concrete tool 2
+Concrete tool 3
+Concrete tool remaining: 4/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 1
+Painting tool 2
+Painting tool 3
+Painting tool remaining: 4/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 5/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 4/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 2
+Yardwork tool remaining: 2/4
+
+################################# Day 23 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 3
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 1
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 6
+
+Active Order 3: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Woodwork tool 1
+AddOn 2: AccessoryKit
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 6
+
+**************************** Completed Order by Day 23 *****************************
+
+Total Completed Orders: 19
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 14: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 15: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 16: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Woodwork tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 17: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 18: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 19: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+########################## Total Earning on Day 23 : 0$ ###########################
+
+**************************** Inventories before Day 24 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 2
+Concrete tool 3
+Concrete tool remaining: 3/5
+Painting tools remaining:
+Painting tool 1
+Painting tool 2
+Painting tool 3
+Painting tool 4
+Painting tool remaining: 4/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 5/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 4/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 2
+Yardwork tool remaining: 2/4
+
+################################# Day 24 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 3
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 6
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Woodwork tool 1
+AddOn 2: AccessoryKit
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 5
+
+Active Order 3: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 5
+Total Remaining Days: 4
+
+**************************** Completed Order by Day 24 *****************************
+
+Total Completed Orders: 20
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 14: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 15: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 16: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Woodwork tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 17: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 18: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 19: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 20: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+########################## Total Earning on Day 24 : 62$ ###########################
+
+**************************** Inventories before Day 25 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 2
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 4/5
+Painting tools remaining:
+Painting tool 1
+Painting tool 2
+Painting tool 3
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 5/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 5/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 2
+Yardwork tool 3
+Yardwork tool remaining: 3/4
+
+################################# Day 25 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 3
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 5
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Woodwork tool 1
+AddOn 2: AccessoryKit
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 4
+
+Active Order 3: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 5
+Total Remaining Days: 3
+
+**************************** Completed Order by Day 25 *****************************
+
+Total Completed Orders: 20
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 14: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 15: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 16: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Woodwork tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 17: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 18: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 19: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 20: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+########################## Total Earning on Day 25 : 30$ ###########################
+
+**************************** Inventories before Day 26 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 2
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 4/5
+Painting tools remaining:
+Painting tool 1
+Painting tool 2
+Painting tool 3
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 5/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 5/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 2
+Yardwork tool 3
+Yardwork tool remaining: 3/4
+
+################################# Day 26 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 5
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 4
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Woodwork tool 1
+AddOn 2: AccessoryKit
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 3
+
+Active Order 3: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 5
+Total Remaining Days: 2
+
+Active Order 4: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 4
+
+Active Order 5: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+Tool 3: Yardwork tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 6
+
+**************************** Completed Order by Day 26 *****************************
+
+Total Completed Orders: 20
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 14: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 15: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 16: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Woodwork tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 17: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 18: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 19: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 20: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+########################## Total Earning on Day 26 : 0$ ###########################
+
+**************************** Inventories before Day 27 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 2
+Concrete tool 4
+Concrete tool remaining: 3/5
+Painting tools remaining:
+Painting tool 1
+Painting tool 2
+Painting tool remaining: 2/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 4/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool remaining: 4/5
+Yardwork tools remaining:
+Yardwork tool 2
+Yardwork tool 3
+Yardwork tool remaining: 2/4
+
+################################# Day 27 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 6
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 3
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Woodwork tool 1
+AddOn 2: AccessoryKit
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 2
+
+Active Order 3: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 5
+Total Remaining Days: 1
+
+Active Order 4: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 3
+
+Active Order 5: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+Tool 3: Yardwork tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 5
+
+Active Order 6: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 3
+
+**************************** Completed Order by Day 27 *****************************
+
+Total Completed Orders: 20
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 14: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 15: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 16: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Woodwork tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 17: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 18: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 19: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 20: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+########################## Total Earning on Day 27 : 59$ ###########################
+
+**************************** Inventories before Day 28 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 2
+Concrete tool 4
+Concrete tool remaining: 3/5
+Painting tools remaining:
+Painting tool 2
+Painting tool remaining: 1/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 4/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool remaining: 4/5
+Yardwork tools remaining:
+Yardwork tool 2
+Yardwork tool 3
+Yardwork tool remaining: 2/4
+
+################################# Day 28 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 6
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 2
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Woodwork tool 1
+AddOn 2: AccessoryKit
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 1
+
+Active Order 3: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 3
+
+Active Order 4: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+Tool 3: Yardwork tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 4
+
+Active Order 5: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 2
+
+Active Order 6: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 1
+
+**************************** Completed Order by Day 28 *****************************
+
+Total Completed Orders: 21
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 14: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 15: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 16: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Woodwork tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 17: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 18: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 19: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 20: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 21: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+########################## Total Earning on Day 28 : 30$ ###########################
+
+**************************** Inventories before Day 29 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 2
+Concrete tool 4
+Concrete tool remaining: 3/5
+Painting tools remaining:
+Painting tool 2
+Painting tool 4
+Painting tool remaining: 2/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 3/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool remaining: 4/5
+Yardwork tools remaining:
+Yardwork tool 2
+Yardwork tool 3
+Yardwork tool remaining: 2/4
+
+################################# Day 29 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 5
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 1
+
+Active Order 2: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 3
+
+Active Order 3: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+Tool 3: Yardwork tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 3
+
+Active Order 4: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 1
+
+Active Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 3
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 2
+
+**************************** Completed Order by Day 29 *****************************
+
+Total Completed Orders: 23
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 14: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 15: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 16: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Woodwork tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 17: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 18: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 19: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 20: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 21: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 22: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Woodwork tool 1
+AddOn 2: AccessoryKit
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 23: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+########################## Total Earning on Day 29 : 32$ ###########################
+
+**************************** Inventories before Day 30 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 1
+Concrete tool 2
+Concrete tool 4
+Concrete tool remaining: 4/5
+Painting tools remaining:
+Painting tool 0
+Painting tool 2
+Painting tool 4
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 4/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool remaining: 4/5
+Yardwork tools remaining:
+Yardwork tool 2
+Yardwork tool 3
+Yardwork tool remaining: 2/4
+
+################################# Day 30 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 4
+
+Active Order 1: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 3
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+Tool 3: Yardwork tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 2
+
+Active Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Painting tool 3
+AddOn 2: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 2
+
+Active Order 4: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+
+Total Renting Days: 2
+Total Remaining Days: 1
+
+**************************** Completed Order by Day 30 *****************************
+
+Total Completed Orders: 25
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 14: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 15: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 16: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Woodwork tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 17: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 18: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 19: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 20: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 21: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 22: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Woodwork tool 1
+AddOn 2: AccessoryKit
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 23: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 24: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 25: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+########################## Total Earning on Day 30 : 30$ ###########################
+
+**************************** Inventories before Day 31 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 1
+Concrete tool 2
+Concrete tool 4
+Concrete tool remaining: 4/5
+Painting tools remaining:
+Painting tool 1
+Painting tool 2
+Painting tool 4
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 4/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 2
+Woodwork tool 3
+Woodwork tool remaining: 4/5
+Yardwork tools remaining:
+Yardwork tool 1
+Yardwork tool 2
+Yardwork tool 3
+Yardwork tool remaining: 3/4
+
+################################# Day 31 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 4
+
+Active Order 1: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 2
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+Tool 3: Yardwork tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 1
+
+Active Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Painting tool 3
+AddOn 2: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 1
+
+Active Order 4: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 3
+AddOn 2: 
+Tool 3: Woodwork tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 7
+
+**************************** Completed Order by Day 31 *****************************
+
+Total Completed Orders: 26
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 14: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 15: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 16: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Woodwork tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 17: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 18: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 19: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 20: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 21: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 22: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Woodwork tool 1
+AddOn 2: AccessoryKit
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 23: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 24: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 25: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 26: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+########################## Total Earning on Day 31 : 0$ ###########################
+
+**************************** Inventories before Day 32 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 1
+Concrete tool 2
+Concrete tool 4
+Concrete tool remaining: 4/5
+Painting tools remaining:
+Painting tool 1
+Painting tool 4
+Painting tool remaining: 2/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool remaining: 4/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 3
+Woodwork tool remaining: 3/5
+Yardwork tools remaining:
+Yardwork tool 1
+Yardwork tool 2
+Yardwork tool remaining: 2/4
+
+################################# Day 32 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 3
+
+Active Order 1: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 1
+
+Active Order 2: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Painting tool 3
+AddOn 2: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 1
+
+Active Order 3: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 3
+AddOn 2: 
+Tool 3: Woodwork tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 6
+
+**************************** Completed Order by Day 32 *****************************
+
+Total Completed Orders: 27
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 14: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 15: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 16: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Woodwork tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 17: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 18: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 19: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 20: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 21: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 22: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Woodwork tool 1
+AddOn 2: AccessoryKit
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 23: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 24: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 25: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 26: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 27: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+Tool 3: Yardwork tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+########################## Total Earning on Day 32 : 30$ ###########################
+
+**************************** Inventories before Day 33 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 1
+Concrete tool 2
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 5/5
+Painting tools remaining:
+Painting tool 1
+Painting tool 4
+Painting tool remaining: 2/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 5/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 3
+Woodwork tool remaining: 3/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 1
+Yardwork tool 2
+Yardwork tool remaining: 3/4
+
+################################# Day 33 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 3
+
+Active Order 1: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Painting tool 3
+AddOn 2: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 1
+
+Active Order 2: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 3
+AddOn 2: 
+Tool 3: Woodwork tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 5
+
+Active Order 3: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 3
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 3
+
+**************************** Completed Order by Day 33 *****************************
+
+Total Completed Orders: 28
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 14: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 15: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 16: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Woodwork tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 17: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 18: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 19: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 20: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 21: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 22: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Woodwork tool 1
+AddOn 2: AccessoryKit
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 23: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 24: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 25: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 26: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 27: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+Tool 3: Yardwork tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 28: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+########################## Total Earning on Day 33 : 0$ ###########################
+
+**************************** Inventories before Day 34 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 1
+Concrete tool 2
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 5/5
+Painting tools remaining:
+Painting tool 1
+Painting tool 3
+Painting tool 4
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 5/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 4/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 1
+Yardwork tool 2
+Yardwork tool remaining: 3/4
+
+################################# Day 34 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 2
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 3
+AddOn 2: 
+Tool 3: Woodwork tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 5
+
+Active Order 2: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 3
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 2
+
+**************************** Completed Order by Day 34 *****************************
+
+Total Completed Orders: 29
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 14: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 15: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 16: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Woodwork tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 17: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 18: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 19: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 20: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 21: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 22: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Woodwork tool 1
+AddOn 2: AccessoryKit
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 23: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 24: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 25: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 26: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 27: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+Tool 3: Yardwork tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 28: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 29: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Painting tool 3
+AddOn 2: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+########################## Total Earning on Day 34 : 30$ ###########################
+
+**************************** Inventories before Day 35 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 1
+Concrete tool 2
+Concrete tool 3
+Concrete tool 4
+Concrete tool remaining: 5/5
+Painting tools remaining:
+Painting tool 1
+Painting tool 3
+Painting tool 4
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 5/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 1
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 4/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 1
+Yardwork tool 2
+Yardwork tool remaining: 3/4
+
+################################# Day 35 Renting ###################################
+
+*********************** Active Order Placed by Customer ***************************
+
+Total Active Orders: 3
+
+Active Order 1: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 3
+AddOn 2: 
+Tool 3: Woodwork tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 4
+
+Active Order 2: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 3
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 1
+
+Active Order 3: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+
+Total Renting Days: 7
+Total Remaining Days: 6
+
+**************************** Completed Order by Day 35 *****************************
+
+Total Completed Orders: 29
+
+Completed Order 1: 
+------------------------------------
+Customer name: Casual_customer_6
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: AccessoryKit
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 2: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 3: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 4: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 0
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 5: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 3
+Total Remaining Days: 0
+
+Completed Order 6: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ExtensionCord
+Tool 2: Concrete tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 7: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Yardwork tool 0
+AddOn 1: 
+Tool 2: Yardwork tool 3
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 8: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 4
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 2
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 9: 
+------------------------------------
+Customer name: Casual_customer_8
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Woodwork tool 4
+AddOn 2: 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 10: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 11: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 12: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 13: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ExtensionCord
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 14: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 0
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 15: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 16: 
+------------------------------------
+Customer name: Casual_customer_5
+
+Tools Taken : 
+Tool 1: Woodwork tool 2
+AddOn 1: ExtensionCord
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 17: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 2
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 18: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 19: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 20: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Woodwork tool 1
+AddOn 1: AccessoryKit
+Tool 2: Yardwork tool 3
+AddOn 2: ProtectiveGearPack
+Tool 3: Concrete tool 4
+AddOn 3: 
+Tool 4: Woodwork tool 1
+AddOn 4: AccessoryKit
+Tool 5: Yardwork tool 3
+AddOn 5: ProtectiveGearPack
+Tool 6: Concrete tool 4
+AddOn 6: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 21: 
+------------------------------------
+Customer name: Regular_customer_3
+
+Tools Taken : 
+Tool 1: Painting tool 4
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 22: 
+------------------------------------
+Customer name: Business_customer_9
+
+Tools Taken : 
+Tool 1: Painting tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Woodwork tool 1
+AddOn 2: AccessoryKit
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 23: 
+------------------------------------
+Customer name: Casual_customer_7
+
+Tools Taken : 
+Tool 1: Plumbing tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 24: 
+------------------------------------
+Customer name: Business_customer_10
+
+Tools Taken : 
+Tool 1: Plumbing tool 0
+AddOn 1: ProtectiveGearPack
+Tool 2: Yardwork tool 1
+AddOn 2: ExtensionCord
+Tool 3: Concrete tool 1
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 25: 
+------------------------------------
+Customer name: Regular_customer_2
+
+Tools Taken : 
+Tool 1: Painting tool 1
+AddOn 1: ProtectiveGearPack
+
+Total Renting Days: 4
+Total Remaining Days: 0
+
+Completed Order 26: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+Completed Order 27: 
+------------------------------------
+Customer name: Business_customer_11
+
+Tools Taken : 
+Tool 1: Concrete tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Plumbing tool 4
+AddOn 2: 
+Tool 3: Yardwork tool 0
+AddOn 3: 
+
+Total Renting Days: 7
+Total Remaining Days: 0
+
+Completed Order 28: 
+------------------------------------
+Customer name: Regular_customer_4
+
+Tools Taken : 
+Tool 1: Woodwork tool 4
+AddOn 1: 
+Tool 2: Painting tool 3
+AddOn 2: 
+
+Total Renting Days: 5
+Total Remaining Days: 0
+
+Completed Order 29: 
+------------------------------------
+Customer name: Regular_customer_1
+
+Tools Taken : 
+Tool 1: Painting tool 3
+AddOn 1: ProtectiveGearPack
+Tool 2: Painting tool 3
+AddOn 2: ProtectiveGearPack
+
+Total Renting Days: 2
+Total Remaining Days: 0
+
+########################## Total Earning on Day 35 : 0$ ###########################
+
+**************************** Inventories before Day 36 ***************************** 
+
+Concrete tools remaining:
+Concrete tool 0
+Concrete tool 1
+Concrete tool 2
+Concrete tool 3
+Concrete tool remaining: 4/5
+Painting tools remaining:
+Painting tool 1
+Painting tool 3
+Painting tool 4
+Painting tool remaining: 3/5
+Plumbing tools remaining:
+Plumbing tool 0
+Plumbing tool 1
+Plumbing tool 2
+Plumbing tool 3
+Plumbing tool 4
+Plumbing tool remaining: 5/5
+Woodwork tools remaining:
+Woodwork tool 0
+Woodwork tool 3
+Woodwork tool 4
+Woodwork tool remaining: 3/5
+Yardwork tools remaining:
+Yardwork tool 0
+Yardwork tool 1
+Yardwork tool 2
+Yardwork tool remaining: 3/4
+
+################################# Completed Orders  ###################################
+################################# Total 31 ###################################
+################################# Casual Customer  10 ###################################
+################################# Regular Customer  11 ###################################
+################################# Buisness Customer  10 ###################################
+################################# Total Earnings of store  1139 ###################################
+################################# Earnings from Casual Customer  288 ###################################
+################################# Earnings from Regular Customer  264 ###################################
+################################# Earnings from Buisness Customer  587 ###################################

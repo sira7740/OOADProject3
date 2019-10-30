@@ -3,13 +3,17 @@
 Hardware Rental Store
 
 
+## References and Discussion:
+Discussed with Vishwanath for the idea of implementing decorator patterns and factory pattern.
+
+
 ## How to run the code
 
 #### Download the repository:
 
-$ git clone https://github.com/sira7740/Project-3
+$ git clone https://github.com/sira7740/OOADProject3.git
 
-#### Open Ecliplse (if not installed , please follow this insstruction to install https://www.eclipse.org/downloads/packages/
+#### Open Ecliplse (if not installed , please follow this instruction to install https://www.eclipse.org/downloads/packages/
 
 1) import our project from wizard.
 2) right click on HardwareRentalStore.java 

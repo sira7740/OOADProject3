@@ -3,21 +3,11 @@
 Hardware Rental Store
 
 
-## Team members:
-
-Vishwanath Kulkarni
-
-Sitesh Ranjan
-
-## References and Discussion:
-Discussed with Shreyas and his team, Pradyut and his team for the idea of implementing decorator patterns and factory pattern.
-
-
 ## How to run the code
 
 #### Download the repository:
 
-$ git clone https://github.com/vishwakulkarni/Project-3
+$ git clone https://github.com/sira7740/Project-3
 
 #### Open Ecliplse (if not installed , please follow this insstruction to install https://www.eclipse.org/downloads/packages/
 

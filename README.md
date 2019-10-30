@@ -21,13 +21,6 @@ $ git clone https://github.com/sira7740/OOADProject3.git
 
 output will be on console ..
 
-
-#### less stable running method below 
-
-#### Download the repository:
-
-$ git clone https://github.com/vishwakulkarni/Project-3
-
 #### Go to the directory:
 
 $ cd Project-3/
